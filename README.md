@@ -514,7 +514,6 @@ implmentation.
 python3 cov.py -d -i 100000 -bz 20000
 ```
 
-
 ## Supporting model
 
 Please file an issue under this repository for any bug report / integration
@@ -531,4 +530,3 @@ Please refer to CONTRIBUTING.md for license related questions.
 ## Disclaimer
 
 This is not an officially supported Google product.
-
